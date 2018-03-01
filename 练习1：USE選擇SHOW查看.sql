@@ -54,4 +54,9 @@ mysql> show columns from city;
 +-------------+----------+------+-----+---------+----------------+
 5 rows in set (0.00 sec)
 
-mysql>
+--SHOW STATUS,用于显示广泛的服务器状态信息;
+--SHOW CREATE DATABASE和 SHOW CREATE TABLE,分别用来显示创建特定数据库或表的 MYSQL语句;
+--SHOW GRANTS,用来显示授予用户(所有用户或特定用户)的安全权限;
+--SHOW ERRORS和 SHOW WARNINGS,用来显示服务器错误或警告消息。
+
+
